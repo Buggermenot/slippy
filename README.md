@@ -5,7 +5,8 @@ Can solve some linear maximization optimization problems using the simplex metho
 
 ```python
 Mat = [-, x1, x2, s1, s2, s3, rhs, ratio
-       z, -1, -4, 0 , 0 , 0 ,  0 ,   -  
+       z, -1, -4, 0 , 0 , 0 ,  0 ,   0
+       s1, 2,  3, 1 , 0 , 0 ,  21,   0
        ... ]    
 ```
 
